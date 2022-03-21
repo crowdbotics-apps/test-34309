@@ -16,6 +16,7 @@
     "@modules/login": "file:./modules/login/",
     "@modules/maps": "file:./modules/maps/",
     "@modules/onboarding": "file:./modules/onboarding/",
+    "@modules/social-login": "file:./modules/social-login/",
     "@modules/splash": "file:./modules/splash/",
     "@react-native-community/masked-view": "^0.1.10",
     "@react-navigation/native": "^5.9.3",
